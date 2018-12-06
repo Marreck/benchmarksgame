@@ -4,6 +4,9 @@
 *.dll
 *.so
 *.dylib
+build.bat
+
+input25000000.txt
 
 # Test binary, build with `go test -c`
 *.test
